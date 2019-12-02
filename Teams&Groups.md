@@ -5,6 +5,8 @@ Group 1
 - Lovisa (lovisalybeck) 
 - Stevie (ordboy)/ Jesper (sjostromjesper) / Albin (albinkj91) / Philip (philipnorvik)
 - Kenny Hoang (Flaakan ) / Johnny (keho1801)
+- Jeppe90 (Jeppe90)
+- Johan Johansson (johanone)
 
 Group 2
 - Josef N. (josefnm) / Jenny O. (jennyostman) 
