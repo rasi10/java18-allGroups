@@ -16,6 +16,7 @@ Group 2
 Group 3
 - Carlos (carloslane) 
 - David S. (davidsodergren) / Marcus J. (marcus-d-jensen) / Kristian G. (kristiangrundstrom)
+- Vincent Frank (vincefra)
 
 Group 4
 - Marcus Ström (marcstro) 
