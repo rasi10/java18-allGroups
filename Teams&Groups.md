@@ -4,6 +4,7 @@ Group 1
 - William (Wjelvin) 
 - Lovisa (lovisalybeck) 
 - Stevie (ordboy)/ Jesper (sjostromjesper) / Albin (albinkj91) / Philip (philipnorvik)
+- Kenny Hoang (Flaakan ) / Johnny (keho1801)
 
 Group 2
 - Josef N. (josefnm) / Jenny O. (jennyostman) 
