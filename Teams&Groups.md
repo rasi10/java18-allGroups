@@ -17,6 +17,7 @@
 - Carlos (carloslane) 
 - David S. (davidsodergren) / Marcus J. (marcus-d-jensen) / Kristian G. (kristiangrundstrom)
 - Vincent Frank (vincefra)
+- Adam B. (Quik1337)
 
 ### Group 4
 - Marcus Ström (marcstro) 
