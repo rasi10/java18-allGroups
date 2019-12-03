@@ -3,8 +3,7 @@
 - Isami (isamimitani) 
 - William (Wjelvin) 
 - Lovisa (lovisalybeck) 
-- Stevie (ordboy)/ Jesper (sjostromjesper) / Albin (albinkj91) / Philip (philipnorvik)
-- Jeppe90 (Jeppe90)
+- Stevie (ordboy)/ Jesper (sjostromjesper) / Albin (albinkj91) / Philip (philipnorvik)- 
 - Johan Johansson (johanone)
 
 ### Group 2
@@ -25,3 +24,4 @@
 - Niklas Helander (nikalsh)
 - Kenny Hoang (Flaakan ) / Johnny (keho1801)
 - Jonas Hallström (relaxmeister)
+- Jeppe90 (Jeppe90)
