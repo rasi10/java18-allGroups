@@ -11,6 +11,7 @@
 - Sarko (saal1801) 
 - Erik (erikaneer)
 - Lukas Andren (LukasAndren)
+- Jonas Hallström (relaxmeister)
 
 ### Group 3
 - Carlos (carloslane) 
@@ -23,5 +24,4 @@
 - Mikael F. (Crezze)
 - Niklas Helander (nikalsh)
 - Kenny Hoang (Flaakan ) / Johnny (keho1801)
-- Jonas Hallström (relaxmeister)
 - Jeppe90 (Jeppe90)
