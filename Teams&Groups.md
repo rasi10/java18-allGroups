@@ -2,7 +2,6 @@
 - Julia X. (juliagu808) / Xin (XinGclover) / Ivy (chichiglacierz) 
 - Isami (isamimitani) 
 - William (Wjelvin) 
-- Lovisa (lovisalybeck) 
 - Stevie (ordboy)/ Jesper (sjostromjesper) / Albin (albinkj91) / Philip (philipnorvik)- 
 - Johan Johansson (johanone)
 
@@ -25,3 +24,4 @@
 - Niklas Helander (nikalsh)
 - Kenny Hoang (Flaakan ) / Johnny (keho1801)
 - Jeppe90 (Jeppe90)
+- Lovisa (lovisalybeck) 
